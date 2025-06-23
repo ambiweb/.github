@@ -1,5 +1,4 @@
-.# AmbiWeb
-
+# AmbiWeb
 	
 AmbiWeb is an internet company based in Gernsbach, Germany, specializing in the operation and marketing of websites. The company was founded by [Tobias Schwarz](https://www.tobias-schwarz.com/), who has been leading it as CEO since its establishment in 2005.
 
